@@ -1,0 +1,53 @@
+
+.characters {
+    margin-top: 100px;
+}
+
+.dropdown,
+.select-option {
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    width: 250px;
+}
+
+.cards {
+    width: 600px;
+    border: 1px solid #424242;
+    border-radius: 10px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+    background: #424242;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.image {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.location-details {
+    display: grid;
+}
+
+.row>* {
+    padding-left: 0 !important;
+}
+
+.details {
+    color: white;
+    display: grid;
+    padding: 10px;
+}
+
+.sub-title {
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
